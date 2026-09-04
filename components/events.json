@@ -1,0 +1,182 @@
+[
+    {
+        "day": 1,
+        "events": [
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/1.png"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/2.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/3.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/4.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/5.jpg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/6.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/7.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/8.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/9.jpg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/10.jpg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/11.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/12.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/13.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/14.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/15.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/16.jpg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 1,
+                "poster": "events/17.jpeg"
+            }
+        ]
+    },
+    {
+        "day": 2,
+        "events": [
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/18.jpg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/19.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/20.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/21.jpg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/22.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/23.jpg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/24.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/25.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/26.jpg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/27.png"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/28.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/29.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/30.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/31.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/32.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/33.jpeg"
+            },
+            {
+                "name": "Event Vision",
+                "day": 2,
+                "poster": "events/34.jpeg"
+            }
+        ]
+    }
+]
